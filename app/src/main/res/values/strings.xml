@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GoogleMapPath</string>
+
+    <!--buttons-->
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="draw_path">Draw Path</string>
+
+    <string name="no_internet_connection">No Internet Connection</string>
+
+    <string name="permission_required">Permission required for accessing your current location</string>
+    <string name="current_location">Current Location</string>
+    <string name="unable_to_connect_to_google_maps">Unable to connect to google maps</string>
+
+    <string name="source_empty">Please enter source</string>
+    <string name="destination_empty">Please enter destination</string>
+</resources>
