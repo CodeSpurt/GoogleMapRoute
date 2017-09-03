@@ -1,4 +1,4 @@
-This app is a demonstration on how to draw 'Route in Google Map' in Android.<br />
+This app is a demonstration on how to use 'Route in Google Map' in Android.<br />
 
 <b>Dependencies used:</b> compile 'com.google.android.gms:play-services:11.0.4'<br />
 
