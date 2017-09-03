@@ -5,7 +5,7 @@ import com.codespurt.googlemappath.util.Preferences;
 public class RequestURLs {
 
     private Preferences preferences;
-    public static final String API_KEY = "AIzaSyD-2E0RCKBiHwQBXvvxBwtJIRqq1aenEvk";
+    public static final String API_KEY = "";
 
     public static final String BASE_URL = "https://maps.googleapis.com/maps/api/directions/json?";
 
